@@ -1,0 +1,48 @@
+{
+
+    "eng_invalidEmail": "Please enter a valid email address.",
+    "eng_retryAgain": "We couldn't log you in. Please check your email address and password and try again.",
+    "eng_validName": "Please enter a valid name",
+    "eng_validEmail": "Please enter a valid email",
+    "eng_selectLang":  "Please select a language",
+    "eng_nonSSOEmail": "We could not find any SSO provider based on that email address.",
+
+    "eng_locSuppLangError": "#chat-fc-language-error",
+    "eng_locSuppNameError":"#chat-fc-name-error",
+
+
+    "deu_invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "deu_retryAgain": "Die Anmeldung ist fehlgeschlagen. Bitte überprüfen Sie Ihre E-Mail-Adresse und Ihr Passwort und versuchen Sie es erneut.",
+    "deu_validName": "Bitte geben Sie einen gültigen Namen ein",
+    "deu_validEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "deu_selectLang":  "Bitte wählen Sie eine Sprache",
+    "deu_nonSSOEmail": "Wir konnten basierend auf dieser E-Mail-Adresse keinen SSO-Anbieter finden.",
+
+    "deu_locSuppLangError": "#chat-fc-sprache-error",
+    "due_locSuppNameError":"#chat-fc-name-error",
+    
+
+    "fra_invalidEmail": "Veuillez entrer une adresse email valide.",
+    "fra_retryAgain": "Nous n'avons pas pu vous connecter. Veuillez vérifier votre adresse e-mail et votre mot de passe et réessayer.",
+    "fra_validName": "Veuillez entrer un nom valide",
+    "fra_validEmail": "Veuillez entrer une adresse email valide.",
+    "fra_selectLang":  "Veuillez sélectionner une langue",
+    "fra_nonSSOEmail": "Nous n'avons pas pu trouver de fournisseur SSO basé sur cette adresse e-mail.",
+
+    "fra_locSuppLangError": "#chat-fc-langue-error",
+    "fra_locSuppNameError": "#chat-fc-nom-error",
+
+    "ita_invalidEmail": "Inserire un indirizzo email valido",
+    "ita_retryAgain": "Non abbiamo potuto effettuare il login. Per favore, controlli il suo indirizzo e-mail e la sua password e riprovi.",
+    "ita_validName": "Inserire un nome valido",
+    "ita_validEmail": "Inserire un indirizzo email valido",
+    "ita_selectLang": "Selezionare una lingua",
+    "ita_nonSSOEmail": "Non siamo riusciti a trovare nessun provider SSO basato su quell'indirizzo email",
+
+    "ita_locSuppLangError": "#chat-fc-lingua-error",
+    "ita_locSuppNameError": "#chat-fc-nome-error"
+
+ 
+    
+
+}
